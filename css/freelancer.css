@@ -381,6 +381,19 @@ footer .footer-below {
     outline: 0;
 }
 
+.my-fa-facebook:before {
+  content: "\f09a";
+}
+
+.my-fa-linkedin:before {
+  content: "\f0e1";
+}
+
+.my-fa-twitter:before {
+  content: "\f099";
+}
+
+
 .scroll-top {
     z-index: 1049;
     position: fixed;
