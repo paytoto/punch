@@ -264,7 +264,7 @@ h3 {
     }
 }
 
-.btn-outline {
+._hollow {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
@@ -273,10 +273,10 @@ h3 {
     transition: all .3s ease-in-out;
 }
 
-.btn-outline:hover,
-.btn-outline:focus,
-.btn-outline:active,
-.btn-outline.active {
+._hollow:hover,
+._hollow:focus,
+._hollow:active,
+._hollow.active {
     border: solid 2px #fff;
     color: #18bc9c;
     background: #fff;
@@ -364,7 +364,7 @@ footer .footer-below {
     margin-bottom: 20px;
 }
 
-.btn-fuck-em {
+._blank {
     display: inline-block;
     width: 50px;
     height: 50px;
