@@ -381,18 +381,17 @@ footer .footer-below {
     outline: 0;
 }
 
-.my-fa-facebook:before {
+.my-fa-f:before {
   content: "\f09a";
 }
 
-.my-fa-linkedin:before {
+.my-fa-l:before {
   content: "\f0e1";
 }
 
-.my-fa-twitter:before {
+.my-fa-t:before {
   content: "\f099";
 }
-
 
 .scroll-top {
     z-index: 1049;
