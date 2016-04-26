@@ -8,8 +8,22 @@ body {
     overflow-x: hidden;
 }
 
+.about p1 {
+    color: #DF3393;
+}
+
+.customer p2 {
+    color: #2c3e50;
+}
+
 p {
     font-size: 20px;
+}
+
+.center-div {
+  position: relative;
+  left: 33%;
+  margin-left: -100px;
 }
 
 p.small {
